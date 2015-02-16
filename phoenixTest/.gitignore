@@ -1,4 +1,14 @@
+# Created by https://www.gitignore.io
+
+### Elixir ###
 /_build
 /deps
 erl_crash.dump
 *.ez
+
+
+### TextMate ###
+*.tmproj
+*.tmproject
+tmtags
+
